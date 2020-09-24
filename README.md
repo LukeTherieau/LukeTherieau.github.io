@@ -11,3 +11,7 @@
 [Assignment 5](fa2020_assignment5.html)
 
 [Assignment 6](fa2020_assignment6.html)
+
+[Assignment 7](fa2020_assignment7.html)
+
+[Link to the plot](abc.png)
