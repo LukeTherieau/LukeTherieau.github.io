@@ -15,3 +15,6 @@
 [Assignment 7](fa2020_assignment7.html)
 
 [Link to the plot](abc.png)
+
+[Assignment 8](fa2020_assignment8 (3).Rmd)
+
