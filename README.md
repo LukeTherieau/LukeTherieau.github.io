@@ -18,3 +18,4 @@
 
 [Assignment 8](fa2020_assignment8.html)
 
+[Assignment 9](fa2020_assignment9.html)
