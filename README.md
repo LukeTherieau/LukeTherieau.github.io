@@ -30,4 +30,4 @@
 
 [Midterm Presentation](midterm_presentation.html)
 
-[Assignment 12](fa2020_assignment13.html)
+[Assignment 13](fa2020_assignment13.html)
