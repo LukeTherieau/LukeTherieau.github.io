@@ -31,3 +31,5 @@
 [Midterm Presentation](midterm_presentation.html)
 
 [Assignment 13](fa2020_assignment13.html)
+
+[Assignment 14](fa2020_assignment14.html)
